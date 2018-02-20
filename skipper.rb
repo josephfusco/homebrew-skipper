@@ -1,7 +1,7 @@
 class Skipper < Formula
   homepage "https://github.com/josephfusco/skipper"
   url "https://github.com/josephfusco/skipper/archive/v0.1.1.tar.gz"
-  sha256 "c9995eb50b486359d1c0e7d2392a66e2db107e0e23224e7e9b32a53e571db7e9"
+  sha256 "0046208aec2ec34f9c035cef84f02412169d9a528dcad3cffffb0866a4ed71ae"
 
   def install
     bin.install "skipper" => "skipper"
